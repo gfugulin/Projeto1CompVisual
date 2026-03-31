@@ -10,8 +10,8 @@ Professor: **André Kishimoto**
 | Nome | RA |
 |---|---|
 | Gustavo Fugulin Soares da Silva | 10418552 |
-| Matteo Porcare | 10418276 |
 | Yuri Milliet da Silva | 10417884 |
+| Lucas Eleutério da Silva | 10402122 |
 
 ---
 
@@ -590,6 +590,6 @@ Exemplos:
 
 | Integrante | Responsabilidade |
 |---|---|
-| **Gustavo Fugulin** | Integração geral (`main.cpp`), equalização de histograma e documentação (README) |
-| **Matteo Porcare** | Carregamento de imagens e conversão para escala de cinza (`image_processor.cpp`) |
-| **Yuri Milliet** | Interface gráfica, janelas e componentes de botão (`gui.cpp`), cálculo e renderização do histograma (`histogram.cpp`) |
+| **Gustavo Fugulin Soares da Silva** | Integração geral (`main.cpp`), documentação (README) |
+| **Yuri Milliet da Silva** | Carregamento de imagens e conversão para escala de cinza (`image_processor.cpp`) |
+| **Lucas Eleutério da Silva** | Interface gráfica, janelas e componentes de botão (`gui.cpp`), cálculo, equalização e renderização do histograma (`histogram.cpp`) |
