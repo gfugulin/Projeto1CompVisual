@@ -1,0 +1,22 @@
+# Compilados
+build/
+assets/
+*.o
+*.exe
+
+# Bibliotecas SDL3 (cada dev precisa baixar localmente)
+libs/
+
+# Imagem de saída
+output_image.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
